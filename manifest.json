@@ -1,0 +1,19 @@
+{
+  "short_name": "Router",
+  "name": "Router",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://ijaved85.github.io/ipconfig/index.html",
+  "display": "standalone",
+  "theme_color": "#000112"
+}
